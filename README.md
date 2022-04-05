@@ -1,7 +1,7 @@
 # Vikings
 
 
-## this a site that shows the main caracters of the series Vikings.
+### This a site that shows the main caracters of the series Vikings.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.12.
 
